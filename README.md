@@ -11,7 +11,7 @@ Bisa dimainkan di browser laptop, Android, dan iPhone.
 Kontrol: WASD/panah untuk bergerak, E/Spasi untuk memeriksa, Esc untuk jeda.
 Di HP: joystick di sisi kiri layar, tombol PERIKSA di kanan bawah.
 
-> Peringatan: berisi jumpscare dengan suara keras (volume maksimal). Suara tidak bisa dimatikan dari dalam game.
+> Peringatan: berisi jumpscare dengan suara keras (volume maksimal). Volume backsound bisa dikecilkan di Pengaturan, tetapi jeritan jumpscare selalu maksimal.
 
 ## Mengaktifkan GitHub Pages
 
